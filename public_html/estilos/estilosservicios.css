@@ -1,0 +1,55 @@
+
+ul li{
+    list-style-type: none;
+     display: inline;
+     font-size: 24px;
+     background: #7CE2EE;
+     padding:15px;
+     border-radius: 15px;
+}
+
+#cabecera{
+   text-align: center;
+   font-family: Calibri;
+   color: #0C75EA;  
+   background-color: #7CE2EE;
+   padding: 80px;
+   font-size: 30px;
+}
+
+#menu{
+     text-align: center;
+     background-color: #7CE2EE;
+     padding: 20px;
+}
+
+#pie{
+    text-align: center;
+    background: #7CE2EE;
+    font-size: 15px;
+    color: #3C424A;  
+}
+
+a{
+    text-decoration:none;
+    color:#3C424A;
+}
+
+#cuerpo{
+    font-size: 15px;
+    font-family: "Georgia";
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+
+.row {
+    font-size: 15px;
+   text-decoration:none;
+}
+
+a:hover{
+    text-decoration: none;
+     color: #0C75EA; 
+     font-size: 25px;
+}
