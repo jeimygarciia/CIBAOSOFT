@@ -43,7 +43,6 @@ a{
     font-family: "Georgia";
     text-align: center;
     padding-top: 100px;
-    padding-left: 300px;
 }
 
 .row {
@@ -55,4 +54,7 @@ a:hover{
     text-decoration: none;
      color: #0C75EA; 
      font-size: 25px;
+}
+.row a{
+    color:red;
 }
