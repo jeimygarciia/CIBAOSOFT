@@ -17,14 +17,13 @@ ul li{
    font-family: Calibri;
    color: #0C75EA;  
    background-color: #7CE2EE;
-   padding: 80px;
-   font-size: 30px;
+   padding: 10px;
 }
 
 #menu{
      text-align: center;
      background-color: #7CE2EE;
-     padding: 20px;
+     padding: 10px;
 }
 
 #cuerpo{
